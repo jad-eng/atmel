@@ -19,7 +19,7 @@
           "size": "2381077",
           "boards": [
             {
-              "name": "Robo HAT MM1"
+              "name": "atmel"
             }
           ],
           "toolsDependencies":
